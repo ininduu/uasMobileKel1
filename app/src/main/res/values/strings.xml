@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GOAT - Greatest of All Time</string>
+    <string-array name="nama">
+        <item>Cristiano Ronaldo</item>
+        <item>Lebron James</item>
+        <item>Michael Phelps</item>
+        <item>Valentino Rossi</item>
+        <item>Novak Djokovic</item>
+        <item>Lin Dan</item>
+        <item>Muhammad Ali</item>
+        <item>Elon Musk</item>
+        <item>Lewis Hamilton</item>
+        <item>Giba</item>
+    </string-array>
+
+    <string-array name="tempat_lahir">
+        <item>Portugal</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Italia</item>
+        <item>Serbia</item>
+        <item>China</item>
+        <item>Amerika Serikat</item>
+        <item>Amerika Serikat</item>
+        <item>Britania Raya</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Cristiano Ronaldo adalah pemain sepak bola profesional asal Portugal yang dianggap sebagai salah satu pemain terbaik sepanjang masa. Dikenal dengan kecepatan, kekuatan fisik, dan kemampuannya mencetak gol. Prestasi 5 Ballon DOR(pemain), 4 Sepatu Emas Eropa, 5 Liga Champions UEFA, Juara Piala Eropa 2016 (bersama Portugal)</item>
+        <item>LeBron James adalah pemain basket profesional yang lahir 30 Desember, 1984. Pemain basket profesional asal Amerika yang bermain untuk Los Angeles Lakers dari National Basketball Association (NBA). Dijuluki "King James", ia dikenal luas sebagai salah satu pemain terhebat dalam sejarah olahraga dan sering dibandingkan dengan Michael Jordan dalam perdebatan mengenai siapa pemain bola basket terhebat sepanjang masa. James telah berkompetisi di 10 Final NBA (dengan delapan penampilan berturut-turut dari 2011 hingga 2018), memenangkan empat kejuaraan NBA. Ia juga memenangkan Piala NBA perdana pada tahun 2023 bersama Lakers, dan tiga medali emas Olimpiade sebagai anggota tim nasional putra AS. bermain di NBA. Dikenal sebagai salah satu pemain bola basket terbaik dalam sejarah, memiliki kemampuan luar biasa di lapangan. Prestasi: 4 MVP NBA, 4 Juara NBA, 2 Medali Emas Olimpiade, 17 All-Star NBA</item>
+        <item>Michael Phelps adalah perenang profesional asal Amerika Serikat dan pemegang medali terbanyak dalam sejarah Olimpiade. Michael Phelps (pada usia 15) berpartisipasi di Olimpiade 2000 di Sydney sebagai perenang putra termuda di ajang Olimpiade sejak 68 tahun. Namun ia tidak memenangkan medali, ia finish ke-5 pada nomor 200m gaya kupu-kupu, Phelps dikenal dalam dunia renang 5 bulan setelah Olimpiade Sydney, Phelps memecahkan rekor dunia 200 m gaya kupu-kupu berikutnya, pada usia 15 tahun 9 bulan, perenang putra termuda pemecah rekor dunia yang pernah ada. Ia lalu memecahkan rekor dunia atas namanya sendiri di Kejuaraan Dunia Renang di Fukuoka, Jepang (1:54.58). Tahun 2002 pada kejuaraan nasional di Fort Lauderdale, Florida, Phelps juga memecahkan rekor dunia pada nomor 400 m gaya individual dan memecahkan rekor nasional AS pada nomor 100 m gaya kupu-kupu dan nomor 200 m gaya individual. Prestasi: 23 Medali Emas Olimpiade, 3 Medali Perak Olimpiade, 2 Medali Perunggu Olimpiade, 39 Rekor Dunia dalam renang</item>
+        <item>Valentino Rossi lahir 16 Februari 1979 adalah seorang pembalap mobil profesional Italia yang saat ini turun dalam ajang Kejuaraan Ketahanan Dunia FIA bersama tim Team WRT. Ia sebelumnya dikenal sebagai pembalap motor pada kejuaraan Grand Prix Sepeda Motor dengan gelar juara dunia pada empat kelas yang berbeda yang diraihnya dalam waktu tujuh tahun berkarier. Ia merupakan salah satu pembalap sepeda motor tersukses, dengan tujuh gelar juara dunia pada kelas puncak (500cc/MotoGP) dan dua gelar pada kelas 250cc dan 125cc. Rossi adalah salah satu olahragawan bergaji terbesar di dunia, ia diperkirakan digaji $34 juta pada tahun 2007. Putra dari mantan pembalap GP 250 cc, Graziano Rossi, dan Stefania Palma ini memegang banyak rekor dan prestasi yang diraihnya melampaui banyak seniornya. Total pembalap eksentrik ini membukukan 9 gelar juara dunia, sekali pada kelas 125cc pada tahun 1997, sekali pada kelas 250cc (1999), dan tujuh kali juara dunia pada kelas puncak 500cc/MotoGP (2001, 2002, 2003, 2004, 2005, 2008, dan 2009).RosSi Juga Menjadi pembalap MotoGP terbaik sepanjang masa. Prestasi: 7 Kejuaraan Dunia MotoGP, 115 Kemenangan Grand Prix, 9 Kejuaraan Dunia secara keseluruhan (termasuk 125cc, 250cc, dan 500cc)</item>
+        <item>Novak Djokovic adalah Pemain Tenis yang lahir pada 22 Mei 1987 di Beograd, Serbia. adalah seorang petenis profesional dari Serbia. Per 4 Juli 2011, dia berada di peringkat 1 dunia dan merupakan petenis dengan peringkat 1 dunia terlama sepanjang sejarah. Ia juga merupakan yang terbaik dari petenis dengan julukan "The Big Three", yakni tiga petenis paling sukses sepanjang masa selain Roger Federer dan Rafael Nadal. Ia juga memegang gelar Grand Slam tunggal putra sebanyak 24 gelar. Lebih banyak empat gelar dari Roger Federer dan dua gelar Rafael Nadal yang mengoleksi 22 gelar. Berdasarkan data ATP, Đoković tinggal di Monte Carlo, Monako. Novak Djokovic adalah pemain tenis profesional asal Serbia yang sering dipandang sebagai salah satu pemain tenis terbaik sepanjang masa. Prestasi: 24 Gelar Grand Slam, 6 Gelar ATP Finals, 96 Gelar ATP Tour, 373 Minggu di Peringkat 1 Dunia</item>
+        <item>Lin Dan adalah pemain bulu tangkis Tiongkok. Ia adalah peraih medali emas Olimpiade dua kali, juara Dunia lima kali serta juara All England enam kali . Secara luas dianggap sebagai pemain bulu tangkis terhebat sepanjang masa, pada usia 28 tahun Lin telah menyelesaikan "Super Grand Slam", setelah memenangkan seluruh rangkaian dari sembilan gelar utama dalam dunia bulu tangkis pada masanya: Olimpiade , Kejuaraan Dunia , Piala Dunia , Piala Thomas , Piala Sudirman , Final Akhir Tahun, Asian Games , dan Kejuaraan Asia , menjadi pemain ketiga yang mencapai prestasi ini setelah Ge Fei dan Gu Jun , juara Piala Dunia dua kali, peraih medali emas Asian Games dua kali, Juara Asia empat kali lahir 14 Oktober 1983 Lin Dan adalah pemain bulu tangkis asal China yang dikenal sebagai "Super Dan". Dia adalah salah satu pemain bulu tangkis terbaik dalam sejarah. Prestasi: 2 Medali Emas Olimpiade, 5 Kejuaraan Dunia Bulu Tangkis, 6 Gelar All England</item>
+        <item>Muhammad Ali adalah petinju profesional asal Amerika Serikat Muhammad Ali (17 Januari 1942 – 3 Juni 2016) adalah mantan petinju profesional asal Amerika Serikat yang dikenal secara luas sebagai salah satu tokoh olahraga yang paling penting dan terkenal dari abad ke-20. Dari awal kariernya, Ali dikenal sebagai sosok inspiratif, kontroversial dan berpengaruh baik di dalam maupun di luar ring yang dianggap sebagai salah satu atlet paling berpengaruh dalam sejarah. Prestasi: 3 Kali Juara Dunia Kelas Berat, 1 Medali Emas Olimpiade, 56 Kemenangan, 5 Kekalahan</item>
+        <item>Elon Musk adalah  lahir pada 28 Juni 1971 adalah seorang pebisnis Amerika Serikat. Dia terkenal karena ikut mendirikan SpaceX Tesla, The Boring Company, Neuralink, dan OpenAI.  seorang pengusaha dan insinyur asal Amerika Serikat yang dikenal karena perannya dalam mendirikan perusahaan-perusahaan seperti Tesla, SpaceX, dan PayPal. Prestasi: Pendiri Tesla dan SpaceX, Penemu dan Pemimpin Inovasi dalam Industri Mobil Listrik dan Antariksa, Memimpin Proyek Mars untuk Kolonisasi</item>
+        <item>Lewis Hamilton lahir 7 Januari 1985, Stevenage, Inggris adalah salah satu pembalap Formula Satu (F1) Grand Prix tersukses sepanjang masa. Ia memegang rekor F1 untuk kemenangan balapan sepanjang karier dan menyamai Michael Schumacher untuk jumlah kejuaraan pembalap terbanyak (tujuh). Pada tahun 2008, ia menjadi pembalap kulit hitam pertama yang memenangkan kejuaraan dunia pembalap F1. Lewis Hamilton adalah pembalap Formula 1 asal Britania Raya yang dikenal dengan keterampilan dan ketangkasannya di lintasan balap. Prestasi: 7 Kejuaraan Dunia Formula 1, 100 Pole Position, 101 Kemenangan Grand Prix</item>
+        <item>Giba (Gilberto Amauri de Godoy Filho) adalah pemain voli asal Brasil yang lahir 23 Desember 1976, adalah mantan pemain bola voli profesional Brasil yang bermain sebagai outside hitter. Selama sebagian besar tahun 2000-an, ia secara luas dianggap sebagai salah satu pemain bola voli terbaik di dunia. Selama karier profesionalnya, ia bermain di Brasil , Italia , Rusia , Argentina , dan sebentar di Uni Emirat Arab . Ia sebagian besar dikenang karena keberhasilannya bersama tim nasional . Ini adala pemain voli terbaik sepanjang masa. Prestasi: 3 Medali Emas Olimpiade (2004, 2008, 2012), 2 Kejuaraan Dunia Voli, 7 Medali Kejuaraan Pan Amerika</item>
+    </string-array>
+
+    <string-array name="image_url">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/330px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/LeBron_James_-_51959723161.jpg/330px-LeBron_James_-_51959723161.jpg </item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Valentino_Rossi_2017.jpg/330px-Valentino_Rossi_2017.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg/330px-Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Badminton-lin_dan.jpg/300px-Badminton-lin_dan.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/330px-Muhammad_Ali_NYWTS.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elon_Musk_in_2023_%28cropped%29.jpg/330px-Elon_Musk_in_2023_%28cropped%29.jpg</item>
+        <item>https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hamilton</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_League_Final_2011_%285927183473%29.jpg/345px-World_League_Final_2011_%285927183473%29.jpg</item>
+    </string-array>
+</resources>
